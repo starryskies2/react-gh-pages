@@ -6,7 +6,6 @@ import {
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
-import SchoolIcon from "@material-ui/icons/School";
 import TerminalIcon from "@mui/icons-material/Terminal";
 import BakeryDiningIcon from "@mui/icons-material/BakeryDining";
 import MilitaryTechIcon from "@mui/icons-material/MilitaryTech";
@@ -63,7 +62,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             learning fullstack Web dev on my own{" "}
           </h3>
-          <h4 className="vertical-timeline-element-subtitle"></h4>
+
           <p></p>
         </VerticalTimelineElement>
         {/* object  */}

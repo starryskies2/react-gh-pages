@@ -8,9 +8,7 @@
   width: 100%;
   height: calc(40vh - 40px);
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+
   border-radius: 90%;
   border: 5px solid #e2b718;
 
